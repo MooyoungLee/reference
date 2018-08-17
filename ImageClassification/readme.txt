@@ -1,1 +1,1 @@
-These are the computer vision projects that I experience.
+These are about computer vision projects.
