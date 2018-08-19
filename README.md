@@ -1,6 +1,3 @@
-Here I uploaded projects and assignments through SMU Data Science program.
-
-
 CloudComputing - mini projects using AWS and Google Cloud
 
 ImageClassification - Neural Net Model using VGG16 and InceptionV3; cloud computing final project
